@@ -18,9 +18,11 @@ This project is a dummy student management system developed using ASP.NET with E
 # Getting Started
 1.	Clone the Repository:
             git clone https://github.com/yourusername/student-management-system.git
+
 2.	Set Up Database:
 o	Create a Microsoft SQL Server database.
 o	Update the connection string in appsettings.json file to point to your database.
+
 3.	Run the Application:
 o	Open the solution in Visual Studio.
 o	Build and run the application.
@@ -29,12 +31,15 @@ o	Build and run the application.
 •	Registration Management:
 o	Navigate to /Registration to manage student registrations.
 o	Perform CRUD operations (Create, Read, Update, Delete) on student registrations.
+
 •	Course Management:
 o	Navigate to /Course to manage courses.
 o	Perform CRUD operations on courses.
+
 •	Batch Management:
 o	Navigate to /Batch to manage batches.
 o	Perform CRUD operations on batches.
+
 •	User Management:
 o	Navigate to /User to manage users.
 o	Perform CRUD operations on users.
