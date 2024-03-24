@@ -17,7 +17,7 @@ This project is a dummy student management system developed using ASP.NET with E
 
 # Getting Started
 1.	Clone the Repository:
-            git clone https://github.com/yourusername/student-management-system.git
+            git clone https://github.com/TanvirApon/student-management-system.git
 
 2.	Set Up Database:
 o	Create a Microsoft SQL Server database.
